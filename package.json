@@ -1,0 +1,16 @@
+{
+  "name": "node-js-playwright-browserstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sample-test": "npx browserstack-node-sdk playwright test tests/homePageTest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "browserstack-node-sdk": "latest"
+  }
+}

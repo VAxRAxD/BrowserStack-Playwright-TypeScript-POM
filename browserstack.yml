@@ -1,0 +1,12 @@
+userName: 
+accessKey: 
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: latest
+  - deviceName: Samsung Galaxy S23 Ultra
+    browserName: chrome
+    osVersion: 13.0
+buildName: Anthology
+testObservability: true
